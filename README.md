@@ -1,4 +1,4 @@
-# Hardhat Project
+# Hardhat Simple Storage
 
 This project demonstrates a basic Hardhat use case. It was created while learning full-stack blockchain solidity course with FCC and Patrik.
 
