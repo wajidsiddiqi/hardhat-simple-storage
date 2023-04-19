@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It was created while learning full-stack blockchain solidity course with FCC and Patrik.
 
